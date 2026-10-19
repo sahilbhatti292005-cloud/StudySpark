@@ -1,0 +1,8 @@
+{
+  "name": "StudySpark AI",
+  "description": "Free AI-powered study productivity tools: turn your notes into summaries, interactive flashcards, quizzes, and clear topic explanations in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /tools/
+Allow: /about
+Allow: /contact
+Allow: /privacy
+Allow: /terms
+Allow: /ai-accuracy
+
+# Disallow internal API paths from search index
+Disallow: /api/
+
+Sitemap: https://studyspark.ai/sitemap.xml
